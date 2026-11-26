@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 struct Book {
     int number;
     char title[10];
